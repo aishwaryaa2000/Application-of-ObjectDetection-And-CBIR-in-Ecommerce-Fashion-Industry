@@ -1,0 +1,52 @@
+item {
+  id: 1
+  name: 'Blazer'
+}
+item {
+  id: 2
+  name: 'Blouse'
+}
+item {
+  id: 3
+  name: 'Cardigan'
+}
+item {
+  id: 4
+  name: 'Dress'
+}
+item {
+  id: 5
+  name: 'Jacket'
+}
+item {
+  id: 6
+  name: 'Jeans'
+}
+item {
+  id: 7
+  name: 'Romper'
+}
+item {
+  id: 8
+  name: 'Shorts'
+}
+item {
+  id: 9
+  name: 'Skirt'
+}
+item {
+  id: 10
+  name: 'Sweater'
+}
+item {
+  id: 11
+  name: 'Tank'
+}
+item {
+  id: 12
+  name: 'Tee'
+}
+item {
+  id: 13
+  name: 'Top'
+}
